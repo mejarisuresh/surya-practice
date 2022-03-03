@@ -1,0 +1,7 @@
+empno|ename|sal
+1|bala|2000
+2|suresh|4000
+3|hema|2000
+
+3|hema|2000
+
